@@ -38,7 +38,7 @@
     "@angular/router": "^8.0.0",
     "@nrwl/angular": "8.1.0",
     "core-js": "^2.5.4",
-    "postcss": "^7.0.18",
+    "postcss": "^7.0.36",
     "rxjs": "~6.4.0",
     "tslib": "^1.9.0",
     "zone.js": "^0.9.1"
